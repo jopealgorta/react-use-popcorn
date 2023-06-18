@@ -1,0 +1,3 @@
+.list.list-movies li:hover {
+  background-color: var(--color-background-100);
+}
